@@ -1,3 +1,6 @@
+![Screenshot 2023-05-23 132134](https://github.com/kavindu-sayuranga/My-Portfolio-V2/assets/101160368/bd5f18e6-f4e3-4b49-a07d-cc98ebaa295d)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
